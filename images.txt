@@ -1,2 +1,1 @@
-phpmyadmin
-wordpress
+mysql:5.7
