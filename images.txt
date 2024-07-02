@@ -1,1 +1,1 @@
-cachet-docker
+nginx
