@@ -1,1 +1,1 @@
-germannewsmaker/myspeed
+graphiteapp/graphite-statsd
