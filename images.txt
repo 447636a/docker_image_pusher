@@ -1,1 +1,1 @@
-graphiteapp/graphite-statsd
+frooodle/s-pdf:latest
