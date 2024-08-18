@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest
+homeassistant/home-assistant:latest
