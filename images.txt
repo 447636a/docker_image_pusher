@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest
+library/mysql:8.0
