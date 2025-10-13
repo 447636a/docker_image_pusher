@@ -1,1 +1,1 @@
-gpustack/gpustack:v0.6.2
+dockurr/windows
