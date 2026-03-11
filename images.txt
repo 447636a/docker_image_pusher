@@ -1,1 +1,1 @@
-gpustack/gpustack:0.7.1
+ollama/ollama
