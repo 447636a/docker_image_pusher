@@ -1,1 +1,1 @@
-ollama/ollama
+gpustack/gpustack:latest
