@@ -1,1 +1,1 @@
-gpustack/gpustack:latest
+louislam/uptime-kuma:2
